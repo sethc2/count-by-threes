@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/count-by-threes/static/css/main.bd2686dc.css",
+    "main.js": "/count-by-threes/static/js/main.191861c1.js",
+    "static/js/787.9860d497.chunk.js": "/count-by-threes/static/js/787.9860d497.chunk.js",
+    "index.html": "/count-by-threes/index.html",
+    "main.bd2686dc.css.map": "/count-by-threes/static/css/main.bd2686dc.css.map",
+    "main.191861c1.js.map": "/count-by-threes/static/js/main.191861c1.js.map",
+    "787.9860d497.chunk.js.map": "/count-by-threes/static/js/787.9860d497.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2686dc.css",
+    "static/js/main.191861c1.js"
+  ]
+}
